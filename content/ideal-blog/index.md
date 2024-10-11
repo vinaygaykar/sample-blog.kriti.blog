@@ -1,6 +1,6 @@
 ---
 title: Hello World
-description: Shocase ideal blog structure
+description: Showcase ideal blog structure
 publishDate: 2024-06-24
 authors: Vinay Gaykar
 draft: false
@@ -41,13 +41,10 @@ To use custom slug you can provide the property `slug` in the frontmatter. Suppo
 
 ## Cover image
 
-For cover image, just add an image with the name `conver` in same folder as this markdown file.
+For cover image, just add an image with the name `cover` in same folder as this markdown file.
 
 
 ## Markdown support
 
 To see how to write a blog and supported tags in markdown visit [markdown-support page](/mardown-support).
-
-
----
 
